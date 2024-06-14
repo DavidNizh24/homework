@@ -19,3 +19,5 @@ user_email = input("Please enter your email: ")
 
 
 print("Your inputed information is:",user_firstname,user_lastname, user_age, user_email)
+#input მაგალითად როდესაც მომხმარებელი შეიყვანს ინფორმაციას კომპიუტერში.
+#output რასაც კომპიუტერი გამოიტანს.
